@@ -1,0 +1,9 @@
+# India Capacity Expansion Model - Dependencies
+# All these are pre-installed in Google Colab except PuLP
+
+pulp>=2.7.0          # Linear programming solver
+pandas>=1.5.0        # Data manipulation
+numpy>=1.23.0        # Numerical computing
+matplotlib>=3.6.0    # Plotting
+seaborn>=0.12.0      # Statistical visualizations
+openpyxl>=3.0.0      # Excel file support
