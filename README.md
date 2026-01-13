@@ -1,6 +1,6 @@
 # India Power Sector Capacity Expansion Optimization Model (2025-2030)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/india-capacity-expansion-model/blob/main/notebooks/India_Capacity_Expansion_Model.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arnab2308/india-capacity-expansion-model/blob/main/notebooks/India_Capacity_Expansion_Model.ipynb)
 
 ## Overview
 
@@ -106,9 +106,7 @@ The model outputs include:
 
 ## Author
 
-**[Your Name]**  
-IIT (ISM) Dhanbad  
-[LinkedIn] | [Email]
+Arnab Banerjee
 
 ## References
 
