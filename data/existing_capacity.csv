@@ -1,0 +1,10 @@
+technology,installed_capacity_mw,available_capacity_mw,avg_plf_pct,under_construction_mw,retirement_by_2030_mw
+coal_existing,210000,200000,58,30000,5000
+coal_new,0,0,0,0,0
+gas_ccgt,25000,24000,25,0,0
+solar,105000,100000,22,85000,0
+wind,48000,46000,30,35000,0
+hydro_large,52000,50000,40,12000,0
+nuclear,8000,7500,75,6000,0
+bess_4hr,2000,1900,0,8000,0
+psh_8hr,5000,4800,0,15000,0
